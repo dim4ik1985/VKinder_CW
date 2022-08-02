@@ -1,0 +1,4 @@
+.env
+database/db_session.py
+.idea/
+__pycache__/
